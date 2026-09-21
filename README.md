@@ -17,7 +17,7 @@ It allows users to register their membership, choose reading preferences, and re
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML
 * CSS
@@ -60,7 +60,7 @@ git clone https://github.com/your-username/Bookstore.git
 
 ---
 
-## 📎 Submission
+##  Submission
 
 * GitHub repository link
 * Updated README file
